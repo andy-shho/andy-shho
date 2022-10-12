@@ -1,5 +1,5 @@
 ## Hi there! I'm Andy Ho 👋
-----
+
  📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/andyshho%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-shho/)](https://www.linkedin.com/in/andy-shho/)
