@@ -2,7 +2,7 @@
 ----
  📫 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/andyshho%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/andy-shho)](www.linkedin.com/in/andy-shho)
+[![LinkedIn](https://img.shields.io/badge/andyshho%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link= https://www.linkedin.com/in/andy-shho/)](https://www.linkedin.com/in/andy-shho)
 [![Gmail](https://img.shields.io/badge/andyshho%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:andyho66@gmail.com)](mailto:andyho66@gmail.com)
 
 ### Languages & Tools
