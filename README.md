@@ -1,11 +1,11 @@
 ### Hi there! I'm Andy Ho 👋
 ----
-- 📫 How to reach me: 
+ 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/andy-shho)](www.linkedin.com/in/andy-shho)
 [![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:andyho66@gmail.com)](mailto:andyho66@gmail.com)
 
-###Languages & Tools
+### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
