@@ -2,8 +2,8 @@
 ----
  📫 How to reach me: 
 
-[![LinkedIn](https://img.shields.io/badge/andyshho%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link= https://www.linkedin.com/in/andy-shho/)](https://www.linkedin.com/in/andy-shho)
-[![Gmail](https://img.shields.io/badge/andyshho%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:andyho66@gmail.com)](mailto:andyho66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/andy-shho%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-shho/)](https://www.linkedin.com/in/andy-shho/)
+[![Gmail](https://img.shields.io/badge/andy-shho%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:andyho66@gmail.com)](mailto:andyho66@gmail.com)
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
