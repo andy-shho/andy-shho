@@ -1,4 +1,4 @@
-### Hi there! I'm Andy Ho 👋
+## Hi there! I'm Andy Ho 👋
 ----
  📫 How to reach me: 
 
